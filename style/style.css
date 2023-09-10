@@ -70,7 +70,7 @@ body {
   -webkit-transform: scale(0);
           transform: scale(0);
   top: -45px;
-  background-color: rgba(189, 192, 186, 0.6);
+  background-color: rgb(189, 192, 186);
   -webkit-box-shadow: 5px 5px 5px 5px #4c4c4c;
           box-shadow: 5px 5px 5px 5px #4c4c4c;
 }
@@ -90,7 +90,7 @@ body {
   right: -100%;
   -webkit-transform: scale(0);
           transform: scale(0);
-  background-color: rgba(189, 192, 186, 0.6);
+  background-color: rgb(189, 192, 186);
   top: -45px;
   -webkit-box-shadow: 5px 5px 5px 5px #4c4c4c;
           box-shadow: 5px 5px 5px 5px #4c4c4c;
